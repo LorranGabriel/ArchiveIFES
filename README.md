@@ -1,2 +1,2 @@
-# Projetos-Acad-micos
+# Projetos Academicos
 Sistema web
