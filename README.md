@@ -3,6 +3,7 @@ Sistema web
 
 
 
+# 2)Requisitos Não Funcionais
 
 Identificador | Descrição | Categoria | Escopo 
 --------- | ---------- | --------- | --------- |
@@ -15,3 +16,6 @@ RNF06     |            |           |           |
 RNF07     |            |           |           |
 RNF08     |            |           |           |
 
+
+
+# 3)Táticas para tratar Atributos de qualidade
