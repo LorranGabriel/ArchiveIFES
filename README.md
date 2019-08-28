@@ -21,15 +21,10 @@ RNF07 |O sistema deve ser capaz de receber mensagens e sugestões da comunidade 
 
 
 Categoria | Requisitos Não Funcionais Considerados| Condutor de Arquitetura | Tática 
-:---------: | :----: | --------- | --------- |
-            |RNF01|          |Mensagens de auxilio ao usuário, simplificar textos e utilizar imagens autoexplicativas.         |
-            |RNF02, RNF03|           |Validação dos campos, exibir mensagens de erro/informações, histórico de edição/visualização dos projetos, autenticação por login e senha, confirmação por email.           |
-            |            |           |           |
-            |            |           |           |
-            |            |           |           |
-            |            |           |           |
-            |            |           |           |
-            |            |           |           |
+:----: | :--------: | ------ | ---------------------------------------------------------------------------------------------- |
+       |RNF01       |        |Mensagens de auxilio ao usuário, simplificar textos e utilizar imagens autoexplicativas.        |
+       |RNF02, RNF03|        |Validação dos campos, exibir mensagens de erro/informações, histórico de edição/visualização dos projetos, autenticação por login e senha, confirmação por email.|
+
             
 ### 4) Protótipos de Tela do Sistema
 
