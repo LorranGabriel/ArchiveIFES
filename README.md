@@ -6,11 +6,11 @@
 ### 2) Requisitos Não Funcionais
 
 Identificador | Descrição | Categoria | Escopo 
-:---------: | ---------- | --------- | --------- |
+:---------: | ---------- | :---------: | :---------: |
 RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade                |           |           |
-RNF02 |O sistema deve ser capaz de autenticar usuários                                           |           |           |
-RNF03 |O sistema deve ser capaz de validar a permissão para editar projetos                      |           |           |
-RNF04 |O sistema deve ser capaz de futuramente possuir uma versão mobile                         |           |           |
+RNF02 |O sistema deve ser capaz de autenticar usuários                                           |Segurança de acesso |Sistema|
+RNF03 |O sistema deve ser capaz de validar a permissão para editar projetos                      |Segurança de acesso |Sistema|
+RNF04 |O sistema deve ser capaz de futuramente possuir uma versão mobile                         |Portabilidade|Funcionalidade|
 RNF05 |O sistema deve ser capaz de receber upload de videos e fotos                              |           |           |
 RNF06 |O sistema deve ser capaz de facilitar a comunicação entre parcerias e novos contratos     |           |           | 
 RNF07 |O sistema deve ser capaz de receber mensagens e sugestões da comunidade externa           |           |           |
@@ -19,7 +19,7 @@ RNF07 |O sistema deve ser capaz de receber mensagens e sugestões da comunidade 
 ### 3) Táticas para tratar Atributos de qualidade
 
 Categoria | Requisitos Não Funcionais | Condutor de Arquitetura | Tática  
-:---------: | ---------- | --------- | --------- |
+:---------: | :----------: | --------- | --------- |
 Facilidade de Operação |   RNF01      |           |Mensagens de auxilio ao usuário, simplificar textos e utilizar imagens autoexplicativas.             |
 Segurança de Acesso | RNF02, RNF03  |           |Validação dos campos, exibir mensagens de erro/informações, histórico de edição/visualização dos projetos, autenticação por login e senha, confirmação por email.          |
    Portabilidade   |    RNF04      |           |Utilizar ferramenta que permite expansão do sistema para outra plataforma (mobile), construir um sistema responsivo.           |
