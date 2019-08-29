@@ -20,13 +20,11 @@ RNF07 |O sistema deve ser capaz de receber mensagens e sugestões da comunidade 
 
 Categoria | Requisitos Não Funcionais | Condutor de Arquitetura | Tática  
 :---------: | ---------- | --------- | --------- |
-RNF01 |   RNF01      |           |Mensagens de auxilio ao usuário, simplificar textos e utilizar imagens autoexplicativas.             |
-RNF02 | RNF02, RNF03  |           |Validação dos campos, exibir mensagens de erro/informações, histórico de edição/visualização dos projetos, autenticação por login e senha, confirmação por email.          |
-RNF03 |    RNF04      |           |Utilizar ferramenta que permite portabilidade para outra plataforma, construir um sistema responsivo.           |
-RNF04 |    RNF05      |           |Padronizar formato, tamanho e extensão dos dados de entrada no sistema.           |
-RNF05 |              |           |           |
-RNF06 |              |           |           | 
-RNF07 |              |           |           |
+Facilidade de Operação |   RNF01      |           |Mensagens de auxilio ao usuário, simplificar textos e utilizar imagens autoexplicativas.             |
+Segurança de Acesso | RNF02, RNF03  |           |Validação dos campos, exibir mensagens de erro/informações, histórico de edição/visualização dos projetos, autenticação por login e senha, confirmação por email.          |
+   Portabilidade   |    RNF04      |           |Utilizar ferramenta que permite expansão do sistema para outra plataforma (mobile), construir um sistema responsivo.           |
+  RNF05  |    RNF05      |           |Padronizar formato, tamanho e extensão dos dados de entrada no sistema.           |
+
 
 
           
