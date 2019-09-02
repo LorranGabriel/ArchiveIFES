@@ -1,7 +1,7 @@
 # Archive IFES - Projeto de Sistemas
 
 ### 1) Descrição do Contexto(Minimundo)
-> Um sistema Web que fornece informações sobre os projetos desenvolvidos dentro do IFES - Campus Serra. Ele armazenará informações referentes a dados técnicos do projeto, pessoas que estão envolvidas, competições e eventos as quais já participou ou irá participar, além de possuir vídeos, fotos, comentários dos autores e usuários. Além de ter uma área dedicada a informar se o projeto está em desenvolvimento ou finalizado, caso esteja em desenvolvimento terá a possibilidade de visualizar as vagas para o mesmo.
+> Atualmente o IFES campus serra é uma das referencias em inovações no ambito academico. O campus possui muitos laboratorios de pesquisa e com frequencia ocorrem publicações dos mesmos. Um sistema Web que fornece informações sobre os projetos desenvolvidos dentro do IFES - Campus Serra seria de muita utilidade. Ele armazenará informações referentes a dados técnicos do projeto, pessoas que estão envolvidas, competições e eventos as quais já participou ou irão participar, além de possuir vídeos, fotos, comentários dos autores e usuários. Possuirá tambem uma área dedicada a informar se o projeto está em desenvolvimento ou finalizado, caso esteja em desenvolvimento terá a possibilidade de visualizar as vagas para o mesmo.
 
 ### 2) Requisitos Não Funcionais
 
@@ -24,7 +24,8 @@ Facilidade de Operação |   RNF01      |           |Mensagens de auxilio ao usu
 Segurança de Acesso | RNF02, RNF03  |           |Validação dos campos, exibir mensagens de erro/informações, histórico de edição/visualização dos projetos, autenticação por login e senha, confirmação por email.          |
    Portabilidade   |    RNF04      |           |Utilizar ferramenta que permite expansão do sistema para outra plataforma (mobile), construir um sistema responsivo.           |
  Eficiência de recursos |    RNF05      |           |Padronizar formato, tamanho e extensão dos dados de entrada no sistema. Ou disponibilizar o link do arquivo.|
-
+Facilidade de Operação |   RNF06      |           |Feed de mensagens e notificações para pesquisadores e para as parcerias.|
+Facilidade de Operação |   RNF07      |           |Feed de mensagens e notificações para pesquisadores e para as parcerias.| 
 
 
           
