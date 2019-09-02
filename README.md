@@ -7,13 +7,13 @@
 
 Identificador | Descrição | Categoria | Escopo 
 :---------: | ---------- | :---------: | :---------: |
-RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade        |           |           |
+RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade        | Usabilidade | Sistema|
 RNF02 |O sistema deve ser capaz de autenticar usuários                                   |Segurança de acesso |Sistema|
 RNF03 |O sistema deve ser capaz de validar a permissão para editar projetos              |Segurança de acesso |Sistema|
 RNF04 |O sistema deve ser capaz de futuramente possuir uma versão mobile                 |Portabilidade|Funcionalidade|
 RNF05 |O sistema deve ser capaz de receber upload de videos e fotos                      |Eficiência de recursos|Sistema |
-RNF06 |O sistema deve ser capaz de facilitar a comunicação entre parcerias e novos contratos     |           |           | 
-RNF07 |O sistema deve ser capaz de receber mensagens e sugestões da comunidade externa           |           |           |
+RNF06 |O sistema deve ser capaz de facilitar a comunicação entre parcerias e novos contratos     |           |Sistema| 
+RNF07 |O sistema deve ser capaz de receber mensagens e sugestões da comunidade externa           |           |Sistema|
 
 
 ### 3) Táticas para tratar Atributos de qualidade
