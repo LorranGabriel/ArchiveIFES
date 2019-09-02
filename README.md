@@ -24,8 +24,7 @@ Facilidade de Operação |   RNF01      |           |Mensagens de auxilio ao usu
 Segurança de Acesso | RNF02, RNF03  |           |Validação dos campos, exibir mensagens de erro/informações, histórico de edição/visualização dos projetos, autenticação por login e senha, confirmação por email.          |
    Portabilidade   |    RNF04      |           |Utilizar ferramenta que permite expansão do sistema para outra plataforma (mobile), construir um sistema responsivo.           |
  Eficiência de recursos |    RNF05      |           |Padronizar formato, tamanho e extensão dos dados de entrada no sistema. Ou disponibilizar o link do arquivo.|
-Facilidade de Operação |   RNF06      |           |Feed de mensagens e notificações para pesquisadores e para as parcerias.|
-Facilidade de Operação |   RNF07      |           |Feed de mensagens e notificações para pesquisadores e para as parcerias.| 
+Facilidade de Operação |   RNF06, RNF07     |           |Feed de mensagens e notificações para pesquisadores e para as parcerias.|
 
 
           
