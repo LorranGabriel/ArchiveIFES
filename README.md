@@ -15,7 +15,10 @@ RNF05 |O sistema deve ser capaz de receber upload de videos e fotos             
 RNF06 |O sistema deve ser capaz de facilitar a comunicação entre parcerias e novos contratos     |Usabilidade|Sistema| 
 RNF07 |O sistema deve ser capaz de receber mensagens e sugestões da comunidade externa           |Usabilidade|Sistema|
 RNF08 |A persistência das informações deverão ser implementadas em um primeiro momento utilizando ElephantSQL (armazenamento na nuvem). Entretanto no futuro deve ser possível utilizar outras tecnologias de persistência.|       |       |
-RNF08 |As funcionalidades dos administradores deverão ser acessiveis apenas via plataforma desktop, já os usuários cadastrados(alunos e professores) poderão ter acesso a suas funcionalidades tanto na versão mobile quanto na versão desktop.|       |       |
+RNF09 |As funcionalidades dos administradores deverão ser acessiveis apenas via plataforma desktop, já os usuários cadastrados(alunos e professores) poderão ter acesso a suas funcionalidades tanto na versão mobile quanto na versão desktop.|       |       |
+RNF10 |As funcionalidades do sistema para usuários visitantes deverão ser fáceis de aprender. Um usuário novato deverá aprender qualquer funcionalidade em no máximo 5 minutos, visto que a maioria das funcionalidades serão de visualição e envio de mensagens|       |       |
+
+RNF11 |A entrada de dados/preenchimento dos campos deve durar no máximo 1 minuto, para usuários experientes e que já estão cadastrados na plataforma|       |       |
 
 
 ### 3) Táticas para tratar Atributos de qualidade
@@ -26,8 +29,11 @@ Facilidade de Operação |   RNF01      |           |Mensagens de auxilio ao usu
 Segurança de Acesso | RNF02, RNF03  |           |Validação dos campos, exibir mensagens de erro/informações, histórico de edição/visualização dos projetos, autenticação por login e senha, confirmação por email.          |
    Portabilidade   |    RNF04      |           |Utilizar ferramenta que permite expansão do sistema para outra plataforma (mobile), construir um sistema responsivo.           |
  Eficiência de recursos |    RNF05      |           |Padronizar formato, tamanho e extensão dos dados de entrada no sistema. Ou disponibilizar o link do arquivo.|
-Facilidade de Operação |   RNF06, RNF07     |           |Feed de mensagens e notificações para pesquisadores e para as parcerias.|
-Facilidade de Operação |   RNF08    |           |Feed de mensagens e notificações para pesquisadores e para as parcerias.|
+Facilidade de Operação |   RNF06, RNF07   |           |Feed de mensagens e notificações para pesquisadores e para as parcerias.|
+Modificabilidade | RNF08, RNF09 |         | Construir o projeto com base em uma arquitetura (de camadas, por exemplo), além de dividir o sistema em módulos, o que facilitará o isolamento de suas interfaces com usuário, lógica de negócio e persistência.|
+ Apreensibilidade |   RNF10    |           | Dar a possibilidade de um modo tutorial para o usuário iniciante/visitante, indicando onde as ações devem ser realizadas e exemplos.|
+ Operacionalidade |   RNF11    |           | Prover mecanismos para autocompletar campos. Quando possível, deixar alguns campos preenchidos com dados padrões.|
+
 
 
           
