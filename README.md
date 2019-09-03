@@ -14,8 +14,8 @@ RNF04 |O sistema deve ser capaz de futuramente possuir uma versão mobile.      
 RNF05 |O sistema deve ser capaz de receber upload de videos e fotos referentes aos projetos desenvolvidos.  |Eficiência de recursos|Sistema |
 RNF06 |O sistema deve ser capaz de facilitar a comunicação entre parcerias e novos contratos atravéz de mensagens pela plataforma e a partir de emails cadastrados.     |Usabilidade|Sistema| 
 RNF07 |O sistema deve ser capaz de receber mensagens e sugestões de qualquer visitante que seja uma pessoa fisica.           |Usabilidade|Sistema|
-RNF08 |A persistência das informações deverão ser implementadas em um primeiro momento utilizando ElephantSQL (armazenamento na nuvem). Entretanto no futuro deve ser possível utilizar outras tecnologias de persistência.|       |       |
-RNF09 |As funcionalidades dos administradores deverão ser acessiveis apenas via plataforma desktop, já os usuários cadastrados(alunos e professores) poderão ter acesso a suas funcionalidades tanto na versão mobile quanto na versão desktop.|       |       |
+RNF08 |A persistência das informações deverão ser implementadas em um primeiro momento utilizando ElephantSQL (armazenamento na nuvem). Entretanto no futuro deve ser possível utilizar outras tecnologias de persistência.| Portabilidade | Sistema  |
+RNF09 |As funcionalidades dos administradores deverão ser acessiveis apenas via plataforma desktop, já os usuários cadastrados(alunos e professores) poderão ter acesso a suas funcionalidades tanto na versão mobile quanto na versão desktop.| Funcionalidade | Sistema |
 RNF10 | Um usuário novato/visitante deverá aprender qualquer funcionalidade em no máximo 5 minutos, visto que a maioria das funcionalidades serão de visualização e envio de mensagens|    Facilidade de Operação   |   Funcionalidade    |
 RNF11 | A entrada de dados/preenchimento dos campos deve durar no máximo 1 minuto, para usuários experientes e que já estão cadastrados na plataforma|   Operacionalidade    |   Funcionalidade   | 
 
