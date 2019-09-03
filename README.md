@@ -23,7 +23,7 @@ RNF11 | A entrada de dados/preenchimento dos campos deve durar no máximo 1 minu
 ### 3) Táticas para tratar Atributos de qualidade
 
 Categoria | Requisitos Não Funcionais | Condutor de Arquitetura | Tática  
-:---------: | :----------: | --------- | --------- |
+:---------: | :----------: | :---------: | --------- |
 Facilidade de Operação |   RNF01      |     Não      |Mensagens de auxilio ao usuário, simplificar textos e utilizar imagens autoexplicativas.             |
 Segurança de Acesso | RNF02, RNF03  |  Não  |Validação dos campos, exibir mensagens de erro/informações, histórico de edição/visualização dos projetos, autenticação por login e senha, confirmação por email.          |
    Portabilidade   |    RNF04      |   Sim   |Utilizar ferramenta que permite expansão do sistema para outra plataforma (mobile), construir um sistema responsivo.           |
