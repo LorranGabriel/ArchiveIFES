@@ -14,7 +14,8 @@ RNF04 |O sistema deve ser capaz de futuramente possuir uma versão mobile       
 RNF05 |O sistema deve ser capaz de receber upload de videos e fotos                      |Eficiência de recursos|Sistema |
 RNF06 |O sistema deve ser capaz de facilitar a comunicação entre parcerias e novos contratos     |Usabilidade|Sistema| 
 RNF07 |O sistema deve ser capaz de receber mensagens e sugestões da comunidade externa           |Usabilidade|Sistema|
-RNF08 |A persistência das informações deverão ser implementadas em um primeiro momento utilizando Elephant(armazenamento na nuvem). Entretanto no futuro deve ser possível utilizar outras tecnologias de persistência.|       |       |
+RNF08 |A persistência das informações deverão ser implementadas em um primeiro momento utilizando ElephantSQL (armazenamento na nuvem). Entretanto no futuro deve ser possível utilizar outras tecnologias de persistência.|       |       |
+RNF08 |As funcionalidades dos administradores deverão ser acessiveis apenas via plataforma desktop, já os usuários cadastrados(alunos e professores) poderão ter acesso a suas funcionalidades tanto na versão mobile quanto na versão desktop.|       |       |
 
 
 ### 3) Táticas para tratar Atributos de qualidade
@@ -26,6 +27,7 @@ Segurança de Acesso | RNF02, RNF03  |           |Validação dos campos, exibir
    Portabilidade   |    RNF04      |           |Utilizar ferramenta que permite expansão do sistema para outra plataforma (mobile), construir um sistema responsivo.           |
  Eficiência de recursos |    RNF05      |           |Padronizar formato, tamanho e extensão dos dados de entrada no sistema. Ou disponibilizar o link do arquivo.|
 Facilidade de Operação |   RNF06, RNF07     |           |Feed de mensagens e notificações para pesquisadores e para as parcerias.|
+Facilidade de Operação |   RNF08    |           |Feed de mensagens e notificações para pesquisadores e para as parcerias.|
 
 
           
