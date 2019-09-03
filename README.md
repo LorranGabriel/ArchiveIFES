@@ -14,6 +14,7 @@ RNF04 |O sistema deve ser capaz de futuramente possuir uma versão mobile       
 RNF05 |O sistema deve ser capaz de receber upload de videos e fotos                      |Eficiência de recursos|Sistema |
 RNF06 |O sistema deve ser capaz de facilitar a comunicação entre parcerias e novos contratos     |Usabilidade|Sistema| 
 RNF07 |O sistema deve ser capaz de receber mensagens e sugestões da comunidade externa           |Usabilidade|Sistema|
+RNF08 |A persistência das informações deverão ser implementadas em um primeiro momento utilizando Elephant(armazenamento na nuvem). Entretanto no futuro deve ser possível utilizar outras tecnologias de persistência.|       |       |
 
 
 ### 3) Táticas para tratar Atributos de qualidade
