@@ -40,6 +40,6 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
 
 [Mockup feito com Balsamiq](/ArquivoIfes_Prototipo.pdf)
 
-### 5) Link aplicativo Mobile desenvolvido com ionic framework
+### 5) Link github do aplicativo Mobile que vem sendo desenvolvido com ionic framework
 
 https://github.com/LorranGabriel/ionic-interface-robots
