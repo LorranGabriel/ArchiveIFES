@@ -56,4 +56,4 @@ https://github.com/LorranGabriel/Arquivo_ifes_mobile
 
 ### 6. Canvas de Análise
 
-![img](Diagrama - Projeto.png) 
+![img](Imagens/canvas_analise.jpg) 
