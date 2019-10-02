@@ -8,7 +8,7 @@
 - [4. Protótipos de Telas (Mockups)](#4-Protótipos-de-Tela-do-Sistema)<br>
 - [5. Link github do aplicativo Mobile](#5-Link-github-do-aplicativo-Mobile-que-vem-sendo-desenvolvido-com-Flutter
 )<br>
-
+- [6. Canvas de Análise](#6-Canvas-de-Análise)<br>
 
 ### 1. Descrição do Contexto
 > Atualmente o IFES campus serra é uma das referências em inovações no âmbito acadêmico. O campus possui muitos laboratórios de pesquisa e com frequência ocorrem publicações dos mesmos. O projeto Arquivo IFES será desenvolvido tanto na plataforma mobile quanto para web, tendo como principal objetivo fornecer e receber informações sobre os projetos desenvolvidos dentro do IFES - Campus Serra. Ele armazenará informações referentes a dados técnicos do projeto, colaboradores que estão envolvidos, competições e eventos as quais o laboratório/projeto já participou ou irão participar, além de exibir vídeos, fotos, comentários dos autores e usuários. Possuirá também uma área dedicada a informar se o projeto está em desenvolvimento ou finalizado, caso esteja em desenvolvimento terá a possibilidade de visualizar as vagas para o mesmo. O projeto é direcionado a usuários do IFES e da comunidade externa, como instituições financiadoras e visitantes em geral, porém a comunidade externa terá acesso restrito a plataforma. Nem sempre esse usuario de fora do meio academico possui o conhecimento técnico necessário para entender com plenitude a linguagem empregada nos artigos e documentos, logo é de grande importância o sistema ser moldado para o melhor entendimento dos projetos, mesmo que a linguagem das publicações sejam imutáveis. Apenas alunos e professores integrantes de projetos e laboratórios de pesquisa poderão editar, adicionar ou remover informações da plataforma mediante avaliação dos administradores do sistema, todos as alterações serão salvas em um histórico com as versões do projeto. Futuramente pretende-se expandir a plataforma Arquivo IFES para outros campus da grande Vitória.
@@ -30,7 +30,7 @@ RNF10 | Um usuário novato/visitante deverá aprender qualquer funcionalidade em
 RNF11 | A entrada de dados/preenchimento dos campos deve durar no máximo 1 minuto, para usuários experientes e que já estão cadastrados na plataforma.|   Operacionalidade    |   Funcionalidade   | 
 
 
-### 3) Táticas para tratar Atributos de qualidade
+### 3. Táticas para tratar Atributos de qualidade
 
 Categoria | Requisitos Não Funcionais | Condutor de Arquitetura | Tática  
 :---------: | :----------: | :---------: | --------- |
@@ -46,10 +46,12 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
 
 
           
-### 4) Protótipos de Tela do Sistema
+### 4. Protótipos de Tela do Sistema
 
 [Mockup feito com Balsamiq](/ArquivoIfes_Prototipo.pdf)
 
-### 5) Link github do aplicativo Mobile que vem sendo desenvolvido com Flutter
+### 5. Link github do aplicativo Mobile que vem sendo desenvolvido com Flutter
 
 https://github.com/LorranGabriel/Arquivo_ifes_mobile
+
+### 6. Canvas de Análise
