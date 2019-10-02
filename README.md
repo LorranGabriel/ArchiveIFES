@@ -2,7 +2,7 @@
 
 ## Sumário
 
-- [1.Descrição](#1-Descrição-do-Contexto(Minimundo))<br>
+- [1.Descrição](#1-Descrição-do-Contexto)<br>
 - [2.Requisitos Não Funcionais](#2-Requisitos-Não-Funcionais)<br>
 - [3. Protótipos de Telas (Mockups)](#5-Protótipos-de-Telas)<br>
 
