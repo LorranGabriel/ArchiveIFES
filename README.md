@@ -55,3 +55,5 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
 https://github.com/LorranGabriel/Arquivo_ifes_mobile
 
 ### 6. Canvas de Análise
+
+![img](imagens/CanvasAnalise.jpg) 
