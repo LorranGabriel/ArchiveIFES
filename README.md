@@ -50,10 +50,21 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
 
 [Mockup feito com Balsamiq](/ArquivoIfes_Prototipo.pdf)
 
-### 5. Link github do aplicativo Mobile que vem sendo desenvolvido com Flutter
+### 5. Plataforma de implementação
+- O sistema será implementado em duas plataformas distintas, afim de extrair a melhor experiência da disciplina.
+- O sistema web está sendo desenvolvido nas linguagens php, javascript e alguns frameworks como laravel e ajax. 
 
-https://github.com/LorranGabriel/Arquivo_ifes_mobile
+
+- O sistema mobile esta sendo desenvolvido em dart, utilizando a framework do Flutter. O aplicativo faz a persistencia dos dados no datafire, fornecido pelo firebase.
+
+> https://github.com/LorranGabriel/Arquivo_ifes_mobile
 
 ### 6. Canvas de Análise
 
 ![img](Imagens/canvas_analise.jpg) 
+
+### 7. Canvas de Projeto
+
+### 8. Arquitetura lógica do sistema
+
+### 9. Arquitetura física do sistema
