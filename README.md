@@ -51,11 +51,11 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
 [Mockup feito com Balsamiq](/ArquivoIfes_Prototipo.pdf)
 
 ### 5. Plataforma de implementação
-- O sistema será implementado em duas plataformas distintas, afim de extrair a melhor experiência da disciplina.
-- O sistema web está sendo desenvolvido nas linguagens php, javascript e alguns frameworks como laravel e ajax. 
+- O sistema será implementado em duas plataformas distintas(web e mobile), afim de extrair a melhor experiência da disciplina.
 
+- O sistema web está sendo desenvolvido nas linguagens php, javascript e alguns frameworks como laravel, ajax e bootstrap. Foi utilizado como meio facilitador o Docker container, configurado com o servidor Apache e persistência de dados no mysql Workbench.
 
-- O sistema mobile esta sendo desenvolvido em dart, utilizando a framework do Flutter. O aplicativo faz a persistencia dos dados no datafire, fornecido pelo firebase.
+- O sistema mobile esta sendo desenvolvido em dart, utilizando o framework do Flutter. O aplicativo faz a persistência dos dados no datafire, fornecido pelo firebase.
 
 > https://github.com/LorranGabriel/Arquivo_ifes_mobile
 
