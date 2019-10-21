@@ -1,4 +1,4 @@
-# Archive IFES - Projeto de Sistemas
+# Arquivo IFES - Projeto de Sistemas
 
 ## Sumário
 
