@@ -66,5 +66,6 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
 ### 7. Canvas de Projeto
 
 ### 8. Arquitetura lógica do sistema
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Projeto%20-%20Arquitetura%20l%C3%B3gica.png) 
 
 ### 9. Arquitetura física do sistema
