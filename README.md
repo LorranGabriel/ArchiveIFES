@@ -60,10 +60,10 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
 
 ### 6. Canvas de Análise
 
-![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Canvas%20-%20An%C3%A1lise.png) 
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Imagens/Canvas%20-%20An%C3%A1lise.png) 
 
 ### 7. Canvas de Projeto
-![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Canvas%20-%20Projeto.png)
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Imagens/Canvas%20-%20Projeto.png)
 
 ### 8. Arquitetura lógica do sistema
 ![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Projeto%20-%20Arquitetura%20l%C3%B3gica.png) 
