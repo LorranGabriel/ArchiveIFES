@@ -44,7 +44,6 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
  Operacionalidade |   RNF11    | Não   | Prover mecanismos para autocompletar campos. Quando possível, deixar alguns campos preenchidos com dados padrões.|
 
 
-
           
 ### 4. Protótipos de Tela do Sistema
 
@@ -53,7 +52,7 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
 ### 5. Plataforma de implementação
 - O sistema será implementado em duas plataformas distintas(web e mobile), afim de extrair a melhor experiência da disciplina.
 
-- O sistema web está sendo desenvolvido nas linguagens php, javascript e alguns frameworks como laravel, ajax e bootstrap. Foi utilizado como meio facilitador o Docker container, configurado com o servidor Apache e persistência de dados no mysql Workbench.
+- O sistema web está sendo desenvolvido nas linguagens php, javascript e alguns frameworks como laravel, ajax e bootstrap. Foi utilizado como meio facilitador para desenvolvimento o Docker container, configurado com o servidor Apache e persistência de dados no mysql Workbench.
 
 - O sistema mobile esta sendo desenvolvido em dart, utilizando o framework do Flutter. O aplicativo faz a persistência dos dados no datafire, fornecido pelo firebase.
 
@@ -67,5 +66,7 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
 
 ### 8. Arquitetura lógica do sistema
 ![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Projeto%20-%20Arquitetura%20l%C3%B3gica.png) 
+
+A arquitetura de software do sistema está baseada no modelo MVC(model,view,control) com algumas variações na arquitetura, como optamos por desenvolver tanto o sistema na plataforma mobile quanto na web, decidimos separar e diferenciar apenas a camada de interface com o usuário, assim temos uma interface para mobile e uma interface para web, ambos possuem dois pacotes, view e control, porém a CIU do mobile funciona como uma extensão do sistema(uma espécie de "casca"), já que não é necessario existir dois subsistemas pois a persistência e lógica de negocio são as mesmas.
 
 ### 9. Arquitetura física do sistema
