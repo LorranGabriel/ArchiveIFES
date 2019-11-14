@@ -12,6 +12,7 @@
 - [7. Canvas de Projeto](#7-Canvas-de-Projeto)<br>
 - [8. Arquitetura lógica do sistema](#8-Arquitetura-lógica-do-sistema)<br>
 - [9. Arquitetura física do sistema](#9-Arquitetura-física-do-sistema)<br>
+- [10. Projeto de Aplicação](#10-Projeto-de-Aplicação)<br>
 
 ### 1. Descrição do Contexto
 > Atualmente o IFES campus serra é uma das referências em inovações no âmbito acadêmico. O campus possui muitos laboratórios de pesquisa e com frequência ocorrem publicações dos mesmos. O projeto Arquivo IFES será desenvolvido tanto na plataforma mobile quanto para web, tendo como principal objetivo fornecer e receber informações sobre os projetos desenvolvidos dentro do IFES - Campus Serra. Ele armazenará informações referentes a dados técnicos do projeto, colaboradores que estão envolvidos, competições e eventos as quais o laboratório/projeto já participou ou irão participar, além de exibir vídeos, fotos, comentários dos autores e usuários. Possuirá também uma área dedicada a informar se o projeto está em desenvolvimento ou finalizado, caso esteja em desenvolvimento terá a possibilidade de visualizar as vagas para o mesmo. O projeto é direcionado a usuários do IFES e da comunidade externa, como instituições financiadoras e visitantes em geral, porém a comunidade externa terá acesso restrito a plataforma. Nem sempre esse usuario de fora do meio academico possui o conhecimento técnico necessário para entender com plenitude a linguagem empregada nos artigos e documentos, logo é de grande importância o sistema ser moldado para o melhor entendimento dos projetos, mesmo que a linguagem das publicações sejam imutáveis. Apenas alunos e professores integrantes de projetos e laboratórios de pesquisa poderão editar, adicionar ou remover informações da plataforma mediante avaliação dos administradores do sistema, todos as alterações serão salvas em um histórico com as versões do projeto. Futuramente pretende-se expandir a plataforma Arquivo IFES para outros campus da grande Vitória.
@@ -76,3 +77,9 @@ A arquitetura de software do sistema está baseada no modelo MVC(model,view,cont
 ### 9. Arquitetura física do sistema
 
 ![img](Imagens/Arquitetura_fisica.png) 
+
+### 10. Projeto de Aplicação
+
+-Projeto de Dominio
+-Regras de negocio
+-Diagrama de sequencia
