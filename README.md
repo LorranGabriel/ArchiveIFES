@@ -75,7 +75,6 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
 A arquitetura de software do sistema está baseada no modelo MVC(model,view,control) com algumas variações na arquitetura, como optamos por desenvolver tanto o sistema na plataforma mobile quanto na web, decidimos separar e diferenciar apenas a camada de interface com o usuário, assim temos uma interface para mobile e uma interface para web, ambos possuem dois pacotes, view e control, porém a CIU do mobile funciona como uma extensão do sistema(uma espécie de "casca"), já que não é necessario existir dois subsistemas pois a persistência e lógica de negocio são as mesmas.
 
 ### 9. Arquitetura física do sistema
-
 ![img](Imagens/Arquitetura_fisica.png) 
 
 ### 10. Modelo Conceitual
@@ -84,11 +83,9 @@ A arquitetura de software do sistema está baseada no modelo MVC(model,view,cont
 ### 11. Diagrama Projeto
 
 ### 12. Diagrama Banco de Dados
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Persistencia/L%C3%B3gico_1.png)
 
--Projeto de Dominio
--Regras de negocio
--Diagrama de sequencia
-
+### 13. Diagramas de Sequência
 
 ### SOFTWARES UTILIZADOS
 >Protótipo das telas: https://balsamiq.com<br>
