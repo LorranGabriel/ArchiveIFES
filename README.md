@@ -89,6 +89,7 @@ A arquitetura de software do sistema está baseada no modelo MVC(model,view,cont
 #### 11.3 Projeto de Aplicação
 
 ##### 11.3.1 Diagrama de Sequência - Login Usuário
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/LogicaNegocio/Sequence%20Diagram%20-%20Login.png)
 
 ##### 11.3.2 Diagrama de Sequência - 
 
