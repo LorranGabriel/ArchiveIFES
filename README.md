@@ -80,12 +80,32 @@ A arquitetura de software do sistema está baseada no modelo MVC(model,view,cont
 ### 10. Modelo Conceitual
 ![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/LogicaNegocio/Conceitual_1.png)
 
-### 11. Diagrama Projeto
+### 11. Projeto da Lógica de Negócio
 
-### 12. Diagrama Banco de Dados
+#### 11.1 Projeto do Dominio
+
+#### 11.2 Métodos da Lógica de Negócio
+
+#### 11.3 Projeto de Aplicação
+
+##### 11.3.1 Diagrama de Sequência - Login Usuário
+
+##### 11.3.2 Diagrama de Sequência - 
+
+##### 11.3.3 Diagrama de Sequência -
+
+### 12. Projeto da Interface com o Usuário
+
+#### 12.1 Diagrama Estrutural da Interface com o Usuário
+
+### 13. Projeto da Persistência
+
+#### 13.1 Modelo Lógico do Banco
 ![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Persistencia/L%C3%B3gico_1.png)
 
-### 13. Diagramas de Sequência
+#### 13.2 Diagrama de Classes da Persistência
+
+### 14. Implementação
 
 ### SOFTWARES UTILIZADOS
 >Protótipo das telas: https://balsamiq.com<br>
