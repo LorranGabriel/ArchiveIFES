@@ -87,6 +87,14 @@ A arquitetura de software do sistema está baseada no modelo MVC(model,view,cont
 
 #### 11.2 Métodos da Lógica de Negócio
 
+##### 11.2.1 Regras de Negócio
+Identificador | Descrição | 
+:---------: | ---------- |
+RN01 |Para realizar a doação de bens fisícos para os laboratórios é necessária apresentação de nota fiscal. |
+RN02 |Ao realizar uma doação é necessario preenchimento do edital disponibilizado pela instituição de ensino. |
+RN03 |Um professor pode orientar no máximo 4 alunos de forma simultânea, assim os laboratórios possuem uma quantidade limitada de alunos, variando de acordo com a quantidade de professores orientadores. |
+RN04 |Para participar de um laboratório, o aluno deve possuir idade superior a 16 anos, estar matriculado em algum do cursos do IFES- Campus Serra e ter cursado todas as disciplinas do primeiro período do seu respectivo curso. |
+
 #### 11.3 Projeto de Aplicação
 
 ##### 11.3.1 Diagrama de Sequência - Login Usuário
