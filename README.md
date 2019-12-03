@@ -111,3 +111,4 @@ A arquitetura de software do sistema está baseada no modelo MVC(model,view,cont
 
 ### SOFTWARES UTILIZADOS
 >Protótipo das telas: https://balsamiq.com<br>
+>Diagramas: http://astah.net/<br>
