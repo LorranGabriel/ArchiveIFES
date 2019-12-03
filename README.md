@@ -83,6 +83,7 @@ A arquitetura de software do sistema está baseada no modelo MVC(model,view,cont
 ### 11. Projeto da Lógica de Negócio
 
 #### 11.1 Projeto do Dominio
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/LogicaNegocio/Diagrama%20-%20Projeto.png)
 
 #### 11.2 Métodos da Lógica de Negócio
 
