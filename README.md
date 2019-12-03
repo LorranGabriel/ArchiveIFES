@@ -51,7 +51,7 @@ Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em u
           
 ### 4. Protótipos de Tela do Sistema
 
-[Mockup feito com Balsamiq](/ArquivoIfes_Prototipo.pdf)
+- [Mockup feito com Balsamiq](/ArquivoIfes_Prototipo.pdf)
 
 ### 5. Plataforma de implementação
 - O sistema será implementado em duas plataformas distintas(web e mobile), afim de extrair a melhor experiência da disciplina.
