@@ -113,12 +113,12 @@ RN04 |Para participar de um laboratório, o aluno deve possuir idade superior a 
 #### 12.1 Diagrama Estrutural da Interface com o Usuário
 
 ### 13. Projeto da Persistência
-![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Imagens/Diagrama%20-%20Persistencia.png)
 
 #### 13.1 Modelo Lógico do Banco
 ![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Persistencia/L%C3%B3gico_1.png)
 
 #### 13.2 Diagrama de Classes da Persistência
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Imagens/Diagrama%20-%20Persistencia.png)
 
 ### 14. Implementação
 
