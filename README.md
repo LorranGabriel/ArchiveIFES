@@ -14,6 +14,7 @@
 - [9. Arquitetura física do sistema](#9-Arquitetura-física-do-sistema)<br>
 - [10. Projeto de Aplicação](#10-Projeto-de-Aplicação)<br>
 - [11. Projeto de Lógica de Negócio](#11-Projeto-de-Lógica-de-Negócio)<br>
+- [12. Projeto da Interface com o Usuário](#12-Projeto-da-Interface-com-o-Usuário)
 - [Outros](#SOFTWARES-UTILIZADOS)<br>
 
 ### 1. Descrição do Contexto
@@ -100,7 +101,7 @@ RN04 |Para participar de um laboratório, o aluno deve possuir idade superior a 
 #### 11.3 Projeto de Aplicação
 
 ##### 11.3.1 Diagrama de Sequência - Login Usuário
-![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Imagens/Diagrama%20-%20Persistencia.png)
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/LogicaNegocio/Sequence%20Diagram%20-%20Login.png)
 
 ##### 11.3.2 Diagrama de Sequência - 
 
@@ -111,7 +112,7 @@ RN04 |Para participar de um laboratório, o aluno deve possuir idade superior a 
 #### 12.1 Diagrama Estrutural da Interface com o Usuário
 
 ### 13. Projeto da Persistência
-![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/LogicaNegocio/Sequence%20Diagram%20-%20Login.png)
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Imagens/Diagrama%20-%20Persistencia.png)
 
 #### 13.1 Modelo Lógico do Banco
 ![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Persistencia/L%C3%B3gico_1.png)
