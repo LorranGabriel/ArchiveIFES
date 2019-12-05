@@ -15,6 +15,7 @@
 - [10. Projeto de Aplicação](#10-Projeto-de-Aplicação)<br>
 - [11. Projeto de Lógica de Negócio](#11-Projeto-de-Lógica-de-Negócio)<br>
 - [12. Projeto da Interface com o Usuário](#12-Projeto-da-Interface-com-o-Usuário)
+- [13. Projeto da Persistência](#13-Projeto-da-Persistência)
 - [Outros](#SOFTWARES-UTILIZADOS)<br>
 
 ### 1. Descrição do Contexto
