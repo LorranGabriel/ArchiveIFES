@@ -98,7 +98,7 @@ RN04 |Para participar de um laboratório, o aluno deve possuir idade superior a 
 #### 11.3 Projeto de Aplicação
 
 ##### 11.3.1 Diagrama de Sequência - Login Usuário
-![img](Imagens/Diagrama - Persistencia.png)
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Imagens/Diagrama%20-%20Persistencia.png)
 
 ##### 11.3.2 Diagrama de Sequência - 
 
