@@ -118,6 +118,7 @@ RN04 |Para participar de um laboratório, o aluno deve possuir idade superior a 
 ![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Persistencia/L%C3%B3gico_1.png)
 
 #### 13.2 Diagrama de Classes da Persistência
+
 ![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Imagens/Diagrama%20-%20Persistencia.png)
 
 ### 14. Implementação
