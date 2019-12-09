@@ -110,7 +110,10 @@ RN04 |Para participar de um laboratório, o aluno deve possuir idade superior a 
 
 ### 12. Projeto da Interface com o Usuário
 
+
 #### 12.1 Diagrama Estrutural da Interface com o Usuário
+
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/Imagens/Diagrama%20-%20Interface.png)
 
 ### 13. Projeto da Persistência
 
