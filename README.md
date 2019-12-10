@@ -104,7 +104,8 @@ RN04 |Para participar de um laboratório, o aluno deve possuir idade superior a 
 ##### 11.3.1 Diagrama de Sequência - Login Usuário
 ![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/LogicaNegocio/Sequence%20Diagram%20-%20Login.png)
 
-##### 11.3.2 Diagrama de Sequência - 
+##### 11.3.2 Diagrama de Sequência - Doação
+![img](https://github.com/aroldovargas/ArchiveIFES/blob/master/LogicaNegocio/Sequence%20Diagram%20-%20Doa%C3%A7%C3%A3o.png)
 
 ##### 11.3.3 Diagrama de Sequência -
 
