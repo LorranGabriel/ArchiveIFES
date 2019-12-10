@@ -45,8 +45,8 @@ Categoria | Requisitos Não Funcionais | Condutor de Arquitetura | Tática
 Facilidade de Operação |   RNF01      |     Não      |Mensagens de auxilio ao usuário, simplificar textos e utilizar imagens autoexplicativas.             |
 Segurança de Acesso | RNF02, RNF03  |  Não  |Validação dos campos, exibir mensagens de erro/informações, histórico de edição/visualização dos projetos, autenticação por login e senha, confirmação por email.          |
    Portabilidade   |    RNF04      |   Sim   |Utilizar ferramenta que permite expansão do sistema para outra plataforma (mobile), construir um sistema responsivo.           |
- Eficiência de recursos |    RNF05      |           |Padronizar e especificar formato, tamanho e extensão dos arquivos de entrada no sistema. Ou disponibilizar o link do arquivo em um campo destinado.|
-Facilidade de Operação |   RNF06, RNF07   |           |Caixa de mensagens e spans de notificações referentes ao contato entre pesquisadores/professores com parcerias.|
+ Eficiência de recursos |    RNF05      |       Não    |Padronizar e especificar formato, tamanho e extensão dos arquivos de entrada no sistema. Ou disponibilizar o link do arquivo em um campo destinado.|
+Facilidade de Operação |   RNF06, RNF07   |     Não      |Caixa de mensagens e spans de notificações referentes ao contato entre pesquisadores/professores com parcerias.|
 Modificabilidade | RNF08, RNF09 |     Sim    | Construir o projeto com base em uma arquitetura (de camadas, por exemplo), além de dividir o sistema em módulos, o que facilitará o isolamento de suas interfaces com usuário, lógica de negócio e persistência.|
  Apreensibilidade |   RNF10    |   Não   | Dar a possibilidade de um modo tutorial para o usuário iniciante/visitante, indicando onde as ações devem ser realizadas e exemplos.|
  Operacionalidade |   RNF11    | Não   | Prover mecanismos para autocompletar campos. Quando possível, deixar alguns campos preenchidos com dados padrões.|
